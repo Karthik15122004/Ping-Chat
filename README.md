@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-09-06 at 16 38 11_4a8ec603](https://github.com/user-attachments/assets/c312f9e1-88b2-4250-9bb7-b53348a38c45)![WhatsApp Image 2025-09-06 at 16 37 35_e3ce5a95](https://github.com/user-attachments/assets/0cc307ff-e6c2-4b79-a35f-4dbe8e3e8dd8)# 💬 Ping Chat
+# 💬 Ping Chat
 
 A real-time chat application built with React.js and Node.js, featuring instant messaging, image sharing, and online status tracking.
 

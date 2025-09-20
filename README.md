@@ -1,4 +1,4 @@
-# 💬 Ping Chat
+![WhatsApp Image 2025-09-06 at 16 38 11_4a8ec603](https://github.com/user-attachments/assets/c312f9e1-88b2-4250-9bb7-b53348a38c45)![WhatsApp Image 2025-09-06 at 16 37 35_e3ce5a95](https://github.com/user-attachments/assets/0cc307ff-e6c2-4b79-a35f-4dbe8e3e8dd8)# 💬 Ping Chat
 
 A real-time chat application built with React.js and Node.js, featuring instant messaging, image sharing, and online status tracking.
 
@@ -38,7 +38,12 @@ A real-time chat application built with React.js and Node.js, featuring instant 
 
 | Login Page | Chat Interface | Contact List |
 |------------|----------------|--------------|
-| ![Login](client/src/assets/assets/assets/screenshots/login.jpg) | ![Chat](client/src/assets/assets/assets/screenshots/chat.jpg) | ![Contacts](client/src/assets/assets/assets/screenshots/contacts.jpg) |
+| ![Login](![WhatsApp Image 2025-09-06 at 16 37 35_e3ce5a95](https://github.com/user-attachments/assets/2e2bb469-fa71-4c6f-98ff-4636e6f457df)
+)  |![Register](![WhatsApp Image 2025-09-06 at 16 37 51_990c6e4c](https://github.com/user-attachments/assets/7323b3d5-f8c6-4d8f-8220-c59a72b8fdc8) | ![Chat](![WhatsApp Image 2025-09-06 at 16 40 12_02999657](https://github.com/user-attachments/assets/10531e68-355e-45a8-a4c9-9dc20f7c7cc2)
+)
+)| ![Contacts](![WhatsApp Image 2025-09-06 at 16 38 11_4a8ec603](https://github.com/user-attachments/assets/4830e209-0613-4389-a981-c222934a84a8)
+) |  ![Emoji Picker](![WhatsApp Image 2025-09-06 at 16 40 56_79904b75](https://github.com/user-attachments/assets/9003c635-0fb0-46bb-adba-161d94c98afd)
+)
 
 ## 🛠️ Installation & Setup
 

@@ -173,8 +173,7 @@ Ping-Chat/
 
 ## 👨‍💻 Author
 
-**Sudarshan Reddy**
-- GitHub: [@sudarshanred05](https://github.com/sudarshanred05)
+**SRK KARTHIK**
 
 ## 🙏 Acknowledgments
 
